@@ -1,0 +1,12 @@
+state.txt
+log.txt
+*.log
+*.pak
+*.ucas
+*.utoc
+*.uasset
+*.umap
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
